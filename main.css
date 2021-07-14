@@ -29,13 +29,13 @@ img {
 	object-fit: contain;
 }
 
-img-ico {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	object-fit: contain;
+img.icon {
 	height: 2vh;
 	width: auto;
+}
+
+img.profile-pic {
+	
 }
 
 .container {
