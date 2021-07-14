@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Last Name;Name;;;
+FN: Name  LastName 
+ORG:PulseSync;
+TITLE:Designation
+EMAIL;type=INTERNET;type=WORK;type=pref:fullname@pulsesync.com
+TEL;type=WORK;type=VOICE:+65 9000 0000
+item1.ADR;type=WORK;type=pref:;;12 Kallang Avenue #03-31, Aperia – The Annex, 09-01;;;339511;Singapore
+item1.X-ABADR:sg
+item2.URL;type=pref:pulsesync.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
