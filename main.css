@@ -67,11 +67,6 @@ img.profile-pic {
 	overflow: visible;
 }
 
-.col.is-6 {
-	flex: none;
-	width: 60%;
-}
-
 .col.is-8 {
 	flex: none;
 	width: 80%;
